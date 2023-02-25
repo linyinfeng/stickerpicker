@@ -1,6 +1,7 @@
 {
   "packs": [
-    "pusheenvol1.json"
+    "pusheenvol1.json",
+    "LittleBCat.json"
   ],
   "homeserver_url": "https://matrix.li7g.com"
 }
